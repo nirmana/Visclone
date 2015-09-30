@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ejb" name="Cyclone - New Template:EJB exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Cyclone___New_Template_EJB_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Cyclone - New Template/ejb/EJB" />
+      <element id="module-output" name="Cyclone - New Template" />
+    </root>
+  </artifact>
+</component>

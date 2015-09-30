@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cloneReport xmlns="http://conqat.cs.tum.edu/ns/clonereport" systemdate="2015.04.30 10:52:46:670+0530">
+  <sourceFile id="0" path="JUnit/src/java/com/extrogene/USSDReceiver.java" location="D:\workspace\Telivision\src\java\com\extrogene\USSDReceiver.java" length="259" fingerprint="6597822E4F8515DFE9BED9517BB338C4" />
+  <sourceFile id="1" path="JUnit/src/java/com/extrogene/Util.java" location="D:\workspace\Telivision\src\java\com\extrogene\Util.java" length="42" fingerprint="EC2823AB548145C96F220325B2089B33" />
+  <sourceFile id="2" path="JUnit/src/java/com/extrogene/controller/MenuHandler.java" location="D:\workspace\Telivision\src\java\com\extrogene\controller\MenuHandler.java" length="11" fingerprint="E6EAD32D0FD88C5ED22CA6A0E5212079" />
+  <sourceFile id="3" path="JUnit/src/java/com/extrogene/controller/MovieControler.java" location="D:\workspace\Telivision\src\java\com\extrogene\controller\MovieControler.java" length="140" fingerprint="F0F690E40ED7DE968B63972DA33AFA4E" />
+  <sourceFile id="4" path="JUnit/src/java/com/extrogene/controller/SubscriptionController.java" location="D:\workspace\Telivision\src\java\com\extrogene\controller\SubscriptionController.java" length="83" fingerprint="8CFC00CDF662F36572C7487DA40C5BFF" />
+  <sourceFile id="5" path="JUnit/src/java/com/extrogene/controller/TVSeriesControler.java" location="D:\workspace\Telivision\src\java\com\extrogene\controller\TVSeriesControler.java" length="141" fingerprint="7DDB6251A35A1590919C2AA069B4949B" />
+  <sourceFile id="6" path="JUnit/src/java/com/extrogene/model/AppConstant.java" location="D:\workspace\Telivision\src\java\com\extrogene\model\AppConstant.java" length="18" fingerprint="A8A1FD0322B63F8BA6EA0BAF7054989C" />
+  <sourceFile id="7" path="JUnit/src/java/com/extrogene/model/DBControler.java" location="D:\workspace\Telivision\src\java\com\extrogene\model\DBControler.java" length="156" fingerprint="AE6089F576D3597C880599A44104C1F8" />
+  <sourceFile id="8" path="JUnit/src/java/com/extrogene/model/InputHandler.java" location="D:\workspace\Telivision\src\java\com\extrogene\model\InputHandler.java" length="16" fingerprint="883B74805427987BF952CA2A57B4950C" />
+  <sourceFile id="9" path="JUnit/src/java/com/extrogene/model/NewClass.java" location="D:\workspace\Telivision\src\java\com\extrogene\model\NewClass.java" length="69" fingerprint="F57B2E6DCFE7241567F894A653921A7C" />
+  <sourceFile id="10" path="JUnit/src/java/com/extrogene/model/User.java" location="D:\workspace\Telivision\src\java\com\extrogene\model\User.java" length="64" fingerprint="A83FA8C549922D11B986821888DE9D9A" />
+  <cloneClass normalizedLength="19" id="20" fingerprint="08470F744A14DF26639CDB8608FC2883">
+    <clone id="22" fingerprint="08470F744A14DF26639CDB8608FC2883" startLine="65" endLine="95" startOffset="2722" endOffset="4009" sourceFileId="3" startUnitIndexInFile="35" lengthInUnits="19" deltaInUnits="0" gaps="" />
+    <clone id="21" fingerprint="08470F744A14DF26639CDB8608FC2883" startLine="63" endLine="93" startOffset="2524" endOffset="3774" sourceFileId="5" startUnitIndexInFile="32" lengthInUnits="19" deltaInUnits="0" gaps="" />
+  </cloneClass>
+  <cloneClass normalizedLength="13" id="3" fingerprint="44813EFDDC248CE371A12E257F048057">
+    <clone id="5" fingerprint="44813EFDDC248CE371A12E257F048057" startLine="15" endLine="27" startOffset="447" endOffset="1033" sourceFileId="7" startUnitIndexInFile="4" lengthInUnits="13" deltaInUnits="0" gaps="" />
+    <clone id="6" fingerprint="44813EFDDC248CE371A12E257F048057" startLine="42" endLine="54" startOffset="1541" endOffset="2136" sourceFileId="7" startUnitIndexInFile="26" lengthInUnits="13" deltaInUnits="0" gaps="" />
+    <clone id="4" fingerprint="44813EFDDC248CE371A12E257F048057" startLine="130" endLine="142" startOffset="4806" endOffset="5396" sourceFileId="7" startUnitIndexInFile="89" lengthInUnits="13" deltaInUnits="0" gaps="" />
+  </cloneClass>
+  <cloneClass normalizedLength="10" id="7" fingerprint="6761A51B4D9C2F2167DAEE777535A1A5">
+    <clone id="8" fingerprint="6761A51B4D9C2F2167DAEE777535A1A5" startLine="49" endLine="62" startOffset="2048" endOffset="2610" sourceFileId="3" startUnitIndexInFile="24" lengthInUnits="10" deltaInUnits="0" gaps="" />
+    <clone id="9" fingerprint="6761A51B4D9C2F2167DAEE777535A1A5" startLine="48" endLine="61" startOffset="1941" endOffset="2502" sourceFileId="5" startUnitIndexInFile="22" lengthInUnits="10" deltaInUnits="0" gaps="" />
+  </cloneClass>
+  <cloneClass normalizedLength="16" id="10" fingerprint="720E1DB78584F6651772A482E0EABBB0">
+    <clone id="11" fingerprint="720E1DB78584F6651772A482E0EABBB0" startLine="20" endLine="37" startOffset="744" endOffset="1354" sourceFileId="7" startUnitIndexInFile="9" lengthInUnits="16" deltaInUnits="0" gaps="" />
+    <clone id="12" fingerprint="720E1DB78584F6651772A482E0EABBB0" startLine="48" endLine="65" startOffset="1882" endOffset="2496" sourceFileId="7" startUnitIndexInFile="32" lengthInUnits="16" deltaInUnits="0" gaps="" />
+    <clone id="13" fingerprint="720E1DB78584F6651772A482E0EABBB0" startLine="135" endLine="152" startOffset="5104" endOffset="5717" sourceFileId="7" startUnitIndexInFile="94" lengthInUnits="16" deltaInUnits="0" gaps="" />
+  </cloneClass>
+  <cloneClass normalizedLength="21" id="0" fingerprint="84D1E7D3AD2EEB18A181EE0B6C40AB44">
+    <clone id="2" fingerprint="84D1E7D3AD2EEB18A181EE0B6C40AB44" startLine="15" endLine="37" startOffset="447" endOffset="1354" sourceFileId="7" startUnitIndexInFile="4" lengthInUnits="21" deltaInUnits="0" gaps="" />
+    <clone id="1" fingerprint="84D1E7D3AD2EEB18A181EE0B6C40AB44" startLine="130" endLine="152" startOffset="4806" endOffset="5717" sourceFileId="7" startUnitIndexInFile="89" lengthInUnits="21" deltaInUnits="0" gaps="" />
+  </cloneClass>
+  <cloneClass normalizedLength="23" id="14" fingerprint="D73268528BA8310E97827A08C90FBCB7">
+    <clone id="15" fingerprint="D73268528BA8310E97827A08C90FBCB7" startLine="152" endLine="181" startOffset="7397" endOffset="9438" sourceFileId="0" startUnitIndexInFile="274" lengthInUnits="23" deltaInUnits="0" gaps="" />
+    <clone id="16" fingerprint="D73268528BA8310E97827A08C90FBCB7" startLine="183" endLine="212" startOffset="9526" endOffset="11359" sourceFileId="0" startUnitIndexInFile="297" lengthInUnits="23" deltaInUnits="0" gaps="" />
+  </cloneClass>
+  <cloneClass normalizedLength="18" id="17" fingerprint="F21CA441E1A227B12584FE7EF79AD911">
+    <clone id="18" fingerprint="F21CA441E1A227B12584FE7EF79AD911" startLine="98" endLine="128" startOffset="4052" endOffset="5703" sourceFileId="3" startUnitIndexInFile="54" lengthInUnits="18" deltaInUnits="0" gaps="" />
+    <clone id="19" fingerprint="F21CA441E1A227B12584FE7EF79AD911" startLine="98" endLine="128" startOffset="3840" endOffset="5484" sourceFileId="5" startUnitIndexInFile="52" lengthInUnits="18" deltaInUnits="0" gaps="" />
+  </cloneClass>
+</cloneReport>

@@ -1,0 +1,15 @@
+/* Folder Structure styles  */
+.parent{
+	color: green;
+}
+.parent ul {
+	list-style: none;
+	color:blue;
+	display: block;
+	
+	
+}
+.child{
+	color: red;
+	border-bottom: 1px solid black;
+}
